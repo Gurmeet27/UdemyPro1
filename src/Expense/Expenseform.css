@@ -1,0 +1,31 @@
+.title-inp {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+Label {
+  margin-right: 5px;
+}
+Input {
+  border-radius: 5px;
+  border-style: none;
+  padding: 5px;
+}
+button {
+  border-radius: 5px;
+  border-style: solid;
+  padding: 2px;
+  margin: 5px;
+  width: 100px;
+  background-color: black;
+  color: white;
+}
+.price-inp {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.Form-fields {
+  background-color: bisque;
+  display: flex;
+  justify-content: space-evenly;
+}
